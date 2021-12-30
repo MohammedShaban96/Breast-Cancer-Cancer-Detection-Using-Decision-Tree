@@ -9,7 +9,6 @@ This Project is implemented to detect breast cancer using Decision Tree Algorith
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed shaban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed shaban" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohamed_ashraf27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamed_ashraf27" height="30" width="40" /></a>
 <a href="https://fb.com/mohamed ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed ashraf" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mohammedshaban91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammedshaban91" height="30" width="40" /></a>
 </p>
